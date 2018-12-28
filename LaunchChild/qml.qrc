@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Spark/Component/LaunchChild/Controls.qml</file>
+        <file>Spark/Component/LaunchChild/LaunchChild.qml</file>
+        <file>Spark/Component/LaunchChild/LaunchDeletege.qml</file>
+        <file>Spark/Component/LaunchChild/ControlModel.qml</file>
+        <file>Spark/Component/LaunchChild/StackModel.qml</file>
+        <file>Spark/Component/Child/Test.qml</file>
+        <file>Spark/Component/LaunchChild/ControlDeletege.qml</file>
+    </qresource>
+</RCC>
